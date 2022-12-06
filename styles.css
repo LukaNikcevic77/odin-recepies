@@ -1,0 +1,16 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
+body {
+    background-color: green;
+}
+.red {
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.white{
+    color: white;
+}
